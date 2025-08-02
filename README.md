@@ -1,6 +1,6 @@
 # VRA_PROJECTS
 
-This repository contains two projects developed as part of the course **VRA: Virtual Reality and Its Applications**. The repository is structured with two main folders: `OpenGL` and `ThreeJS`, each containing one complete project.
+This repository contains two projects developed as part of the course ** Virtual Reality and Its Applications**. The repository is structured with two main folders: `OpenGL` and `ThreeJS`, each containing one complete project.
 
 ---
 
