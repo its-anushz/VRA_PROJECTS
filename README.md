@@ -1,4 +1,4 @@
-# VRA_PROJECTS# VRA Projects
+# VRA_PROJECTS
 
 This repository contains two projects developed as part of the course **VRA: Virtual Reality and Its Applications**. The repository is structured with two main folders: `OpenGL` and `ThreeJS`, each containing one complete project.
 
@@ -65,6 +65,6 @@ M.Tech – Computer Science
 PES University  
 ---
 
-## 📄 License
+## 
 
 These projects were created as part of my coursework for the VRA subject and are shared for academic purposes only.
